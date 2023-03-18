@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "bin/Debug/net6.0/probandomapa.exe",
+      "use": "@vercel/static-build",
+      "config": {}
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/bin/Debug/net6.0/probandomapa.exe"
+    }
+  ]
+}
