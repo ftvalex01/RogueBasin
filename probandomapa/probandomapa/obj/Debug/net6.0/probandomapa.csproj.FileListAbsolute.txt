@@ -1,0 +1,45 @@
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.exe
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.deps.json
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.runtimeconfig.json
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.dll
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.pdb
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.AssemblyReference.cache
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfoInputs.cache
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfo.cs
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.dll
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\refint\probandomapa.dll
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.pdb
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.genruntimeconfig.cache
+C:\Users\Profesor\source\repos\probandomapa\probandomapa\obj\Debug\net6.0\ref\probandomapa.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.exe
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.deps.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.runtimeconfig.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.AssemblyReference.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfoInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfo.cs
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.CoreCompileInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\refint\probandomapa.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.genruntimeconfig.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\probandomapa\probandomapa\obj\Debug\net6.0\ref\probandomapa.dll
+C:\Users\ftval\Desktop\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.exe
+C:\Users\ftval\Desktop\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.deps.json
+C:\Users\ftval\Desktop\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.runtimeconfig.json
+C:\Users\ftval\Desktop\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.dll
+C:\Users\ftval\Desktop\probandomapa\probandomapa\bin\Debug\net6.0\probandomapa.pdb
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.AssemblyReference.cache
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfoInputs.cache
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.AssemblyInfo.cs
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.csproj.CoreCompileInputs.cache
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.dll
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\refint\probandomapa.dll
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.pdb
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\probandomapa.genruntimeconfig.cache
+C:\Users\ftval\Desktop\probandomapa\probandomapa\obj\Debug\net6.0\ref\probandomapa.dll
